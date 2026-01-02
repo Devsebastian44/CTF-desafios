@@ -1,4 +1,4 @@
-# Guía de Resolución: Precious (Hack The Box)
+# Precious (Hack The Box)
 
 ## 1. Enumeración y Reconocimiento
 

@@ -21,7 +21,7 @@ El objetivo es clasificar las máquinas por **nivel de dificultad**, **sistema o
 ```
 CTF-desafios/
 │── HackTheBox/
-│   ├── StartingPoint/          # Máquinas de la sección Starting Point
+│   ├── Starting Point/          # Máquinas de la sección Starting Point
 │   ├── Maquinas/               # Máquinas regulares de HTB
 │   ├── Challenges/             # Retos individuales de HTB
 │   ├── Endgames/               # Escenarios avanzados de HTB
