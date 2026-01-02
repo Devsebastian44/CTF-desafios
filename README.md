@@ -41,19 +41,19 @@ CTF-desafios/
 
 ## 📑 Índice
 
-- [Hack The Box](#hack-the-box)
-  - [Starting Point](#starting-point-htb)
-  - [Máquinas](#máquinas-htb)
-  - [Challenges](#challenges-htb)
-  - [Endgames](#endgames-htb)
-  - [Pro Labs](#pro-labs-htb)
-- [TryHackMe](#tryhackme)
-  - [Rooms](#rooms-thm)
-  - [Pathways](#pathways-thm)
-  - [Challenges](#challenges-thm)
-- [VulnHub](#vulnhub)
-  - [Máquinas](#máquinas-vulnhub)
-  - [Series](#series-vulnhub)
+- [Hack The Box]()
+  - [Starting Point]()
+  - [Máquinas]()
+  - [Challenges]()
+  - [Endgames]()
+  - [Pro Labs]()
+- [TryHackMe]()
+  - [Rooms]()
+  - [Pathways]()
+  - [Challenges]()
+- [VulnHub]()
+  - [Máquinas]()
+  - [Series]()
 
 ---
 
